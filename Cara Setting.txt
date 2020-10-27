@@ -1,0 +1,7 @@
+langkah-Langkah Setting:
+
+1. Beri Tegangan pada Controller
+2. Aktifkan Mode Wifi pada Smartphone
+3. Hubungkan Smartphone Dengan Controller dengan memilih Nama Wifi WifiClock kemudian masukkan password *123456789*
+4. Setelah terhubung buka Aplikasi Google Chrome lalu ketik IP Adress 10.10.10.10 kemudian Enter
+5. Pilih Menu Set Jam kemudian kirim data ke kontroller dengan cara menekan tombol Set Jam
